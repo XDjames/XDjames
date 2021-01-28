@@ -1,5 +1,5 @@
 const bot = new dbd.Bot({
-token: "ODA0MjU3NTQyNTAyNDgxOTI1.YBJtNA.oRYVPoxto23MvBRjrTPCK33x8MY", 
+token: "ODA0MjU3NTQyNTAyNDgxOTI1.YBJtNA.j9M7l9PncgZlnmQUTx3q7sFpe3A", 
 prefix: "$getServerVar[prefix]" 
 })
 bot.onMessage()
